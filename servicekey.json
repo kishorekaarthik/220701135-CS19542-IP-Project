@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "house-price-prediction-301c9",
-  "private_key_id": "b8279bd06c33e7ca62eefbcca7defa47c6cbc01a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCciSGPfh67MXYX\nmXUkq3TGzoP+8ogbR86auGS02qcE/UtmfrEmONUx/kl4XZLdJRW53ROiRCBfphcX\nDw0e7gH/42G+pd0WbdxAfMT/APwUTTiA17vVkkv4pPtoB/5NzVeEF2Xwvu9fSDq7\nYTuCZMCSu5AFDVEAy+T9pWRRS3TONqkqRUOYnPuXrS0DpXSXz1eSyI0ATib9CEV1\n1RUTYAQF8BAzlc1tmDbG7B98oxNGgso1aBqP+MsjRYInXdoYPL1m3EUt38wqRZSv\nsg2sbW3DLVM9jryYka8pf+1QxOjf9Od+ij4nSkd5hhstgmoulodUHlIiA6MU0FB8\n/ld+TITTAgMBAAECggEAAiJWfEvWZGv0tbaoY7MYuPsozomE9IZCmVZpPRP8EfPY\nGtIgXSqKMY/LdaIk9fHi/XE3qs8t98/eYbiZT7IkAdaaRwyg2oTt600oLGfZh/dT\njWIjk/JWKdIqAU2WmH3zsv/UqncX8V8dOd/F/W2dOILpIECBubaN7S1blEYolgUg\nRwplM89MnM3Nhr5m2nbg8NVJ4dNGNduTE5Acl0v7tI4Qnw3wM+odVOSp3UPK6+ow\nZb1LIQT1jwn8lVMJd1PVJtr8v1Ld1JaNXb1KJOClHliY92frcSfIp2GBjckhVaG7\n3Leg4xIcbIfpmWJhkrzu/kcG8uSAUJFNgcxRSP0WnQKBgQDbbO8Q/U5/wp7Lo2F9\nCN8ykAU5Zi6IbxUv0V2hVTy4sU8pZFKKRfH52PRrL2KVVve0zqvZAbV6jbiRtFsG\nGEZy0b2OF+nuB6aC+ldTtzMA+Ku3eaX46OL67itnX/GQolpYjYMChJvvumnsa0Hy\nDNtkgBtld6V0LwCutaHOo0xqPwKBgQC2oKLFPjBsC1/xMUw/gvsz2UvJ5kqWEISn\nAj72/gJYNneX10SfBlKmE+6a90C5nUg8h+qQ1JOo1La8NvOz8vu9tQbDB77QG+wC\n3pFXNMBfCnrt2beHESz3zUNZ4JW1tlmFgCUAIHYLWZZ8mwFOH5SIn5LVMcKL/rQ/\nnnC1wBq4bQKBgQCqFLsOETp6n3GU6RRU5b6UI7xY7JJfILNseD26IybJBm8U53Vv\nRp40iu2R843XsiyZEqVztPZlg1qwXfs8My7QKzFh5blmzrlLxx5Pfq5jL11y/zEe\nSe4+kMRGAcFt2dprz2zgU8fHP1iBb/YS19JrCT2zHdW6xAAkbBd642sE4wKBgBVF\nNlAEwz0CQiVkWX4YMkvCpjoYsV0zBVAyScUYpotBpMIxl1NyOBQRxDuWSpqTwAMU\nzXQa3ivOwo2/VLkDtuBMgkIa19WDOwTGiWT/xtwK63BiaCa6EGO4K3z/VFB6sYiD\n+Us/fKArygQvRYKk2PbkpwRfrEoD21iBip0Qh8wtAoGAEVVo0D0cUUkO28S/oxTq\nt4lb1x/MgHmuH73n+2PJwKCjCR0s1emLhnx5EKB34aWbnqD/bRrM5B/yZv3F6iEE\nyQew4C7W4hC0WTrntbm78HrFzeszR70lX31DVaO0lOGWFvRSAjy9Th8bj8EzSAG/\neGmc9b98R6gCASbFCRk4NE0=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fcyff@house-price-prediction-301c9.iam.gserviceaccount.com",
-  "client_id": "113533672634729179169",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fcyff%40house-price-prediction-301c9.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+add your firebase service account configuration
