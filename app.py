@@ -19,8 +19,8 @@ cred = credentials.Certificate("servicekey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-EMAIL_ADDRESS = '220701135@rajalakshmi.edu.in'
-EMAIL_PASSWORD = 'mithi123'
+EMAIL_ADDRESS = 'your_mail'
+EMAIL_PASSWORD = 'your_password'
 
 def save_search(location, sqft, bhk, bath, price):
     try:
