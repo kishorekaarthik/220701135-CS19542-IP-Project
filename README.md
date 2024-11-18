@@ -20,8 +20,8 @@ This Flask-based application provides tools for estimating house prices based on
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kishorekaarthik/ip.git
-   cd ip
+   git clone https://github.com/kishorekaarthik/220701135-CS19542-IP-Project.git
+   cd 220701135-CS19542-IP-Project
    ```
 
 2. Install dependencies:
